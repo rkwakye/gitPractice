@@ -7,4 +7,5 @@ Production Code with edits from work in Sprint 1.
 Bug#2 discovered on main code during Sprint1 
 Bug#2 code has been fixed after Sprint1 has been checked back into main code. 
 Bug#2 should be branched back to main branch for production from another computer using visual code connected to this repository. 
+This is from Visual Studio Code Committing back to Main code for production on github. 
 ##################################
